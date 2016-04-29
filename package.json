@@ -1,0 +1,25 @@
+{
+  "name": "jmonterroso",
+  "version": "1.0.0",
+  "description": "Jayson Monterroso - Fullstack Web Developer",
+  "main": "./index.json",
+  "scripts": {
+    "postinstall": "cat index.json"
+  },  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmonterroso/jmonterroso.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "nodejs",
+    "costaricajs"
+  ],
+  "author": "Jayson Monterroso <jayson.monterroso@gmail.com> (http://jaysonmonterroso.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmonterroso/jmonterroso/issues"
+  },
+  "homepage": "https://github.com/jmonterroso/jmonterroso#readme"
+}
