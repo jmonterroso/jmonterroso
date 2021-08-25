@@ -1,7 +1,7 @@
 # Hi there I'm Jayson
 
 [![Website](https://img.shields.io/website?label=jaysonmonterroso.com&style=for-the-badge&url=https%3A%2F%2Fjaysonmonterroso.com)](https://jaysonmonterroso.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jayMonterroso?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2jmonterroso&screen_name=jmonterroso)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jayMonterroso?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=jayMonterroso)
 
 ## I'm a husband, father and Developer!
 
