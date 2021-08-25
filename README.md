@@ -1,4 +1,4 @@
-# Hi there I'm Jayson
+# Hi there I'm Jayson 👋
 
 [![Website](https://img.shields.io/website?label=jaysonmonterroso.com&style=for-the-badge&url=https%3A%2F%2Fjaysonmonterroso.com)](https://jaysonmonterroso.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jayMonterroso?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=jayMonterroso)
@@ -6,8 +6,8 @@
 ## I'm a husband, father and Developer!
 
 - :eagle:  I'm currently building an amazing product at [Stackhawk](https://stackhawk.com)
-- :seedling:  Learning about AWS and Kotlin
-- :goal_net:  2021 Goals: contribute more in open source projects
+- :seedling:  Grow and learn something new everyday. Big believer of compounding effect in habits.
+- :goal_net:  2021 Goals: contribute more in open source projects and learn Kotlin 🤓
 - ⚡️ Fun Fact: I love to hike, explore new outdoor places and beaches, and waves obviously 🏄‍♂️
 
 
