@@ -5,10 +5,10 @@
 
 ## I'm a husband, father and Developer!
 
-- :eagle:     I'm currently building an amazing product at [Stackhawk](https://stackhawk.com)
-- :seedling:     Grow and learn something new everyday. Big believer of compounding effect in habits.
-- :goal_net:     2021 Goals: contribute more in open source projects and learn Kotlin 🤓
-- ⚡️   Fun Fact: I love to hike, explore new outdoor places and beaches, and waves obviously 🏄‍♂️
+:eagle:     I'm currently building an amazing product at [Stackhawk](https://stackhawk.com)
+:seedling:     Grow and learn something new everyday. Big believer of compounding effect in habits.
+:goal_net:     2021 Goals: contribute more in open source projects and learn Kotlin 🤓
+⚡️   Fun Fact: I love to hike, explore new outdoor places and beaches, and waves obviously 🏄‍♂️
 
 
 ### Languages and Tools:
