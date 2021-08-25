@@ -5,7 +5,7 @@
 
 ## I'm a husband, father and Developer!
 
-:eagle:     I'm currently building an amazing product at [Stackhawk](https://stackhawk.com)
+:eagle: &nbsp; &nbsp; I'm currently building an amazing product at [Stackhawk](https://stackhawk.com)
 <br/>
 :seedling:     Grow and learn something new everyday. Big believer of compounding effect in habits.
 <br/>
