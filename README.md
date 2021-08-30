@@ -11,7 +11,7 @@
 <br/>
 :goal_net: &nbsp; &nbsp;2021 Goals: contribute more in open source projects and learn Kotlin 🤓
 <br/>
-⚡️ &nbsp; &nbsp;Fun Fact: I love to hike, explore new outdoor places and beaches, and waves obviously 🏄‍♂️
+⚡️ &nbsp; &nbsp;Fun Fact: I love to hike, explore new outdoor places and beaches, and waves 🏄‍♂️
 
 
 ### Languages and Tools:
